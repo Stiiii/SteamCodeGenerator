@@ -5,3 +5,10 @@ C:\Users\Szalai István\Desktop\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\
 C:\Users\Szalai István\Desktop\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.csproj.CoreCompileInputs.cache
 C:\Users\Szalai István\Desktop\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.exe
 C:\Users\Szalai István\Desktop\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.pdb
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\bin\Debug\SteamCodeGenerator.exe.config
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\bin\Debug\SteamCodeGenerator.exe
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\bin\Debug\SteamCodeGenerator.pdb
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.exe
+C:\Users\Szalai István\Desktop\Prog I\SteamCodeGenerator\SteamCodeGenerator\obj\Debug\SteamCodeGenerator.pdb
